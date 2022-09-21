@@ -1,0 +1,57 @@
+[submodule "raphael"]
+	path = raphael
+	url = https://github.com/SimonShiki/raphael
+[submodule "sloth"]
+	path = sloth
+	url = https://github.com/SimonShiki/sloth
+[submodule "chlorophyll"]
+	path = chlorophyll
+	url = https://github.com/SimonShiki/chlorophyll
+[submodule "alpha-canvas"]
+	path = alpha-canvas
+	url = https://github.com/SimonShiki/alpha-canvas
+[submodule "clipcc-extension-alert"]
+	path = clipcc-extension-alert
+	url = https://github.com/JasonXu134590/clipcc-extension-alert
+[submodule "neurons"]
+	path = neurons
+	url = https://github.com/SimonShiki/neurons
+[submodule "Phi-tools"]
+	path = Phi-tools
+	url = https://github.com/SimonShiki/Phi-tools
+[submodule "lollipop"]
+	path = lollipop
+	url = https://github.com/SimonShiki/lollipop
+[submodule "clipcc-extension-touch"]
+	path = clipcc-extension-touch
+	url = https://github.com/SimonShiki/clipcc-extension-touch
+[submodule "scratch2-ify"]
+	path = scratch2-ify
+	url = https://github.com/SimonShiki/scratch2-ify
+[submodule "oh-my-catblocks"]
+	path = oh-my-catblocks
+	url = https://github.com/SimonShiki/oh-my-catblocks
+[submodule "clipcc-extension-easier-rank"]
+	path = clipcc-extension-easier-rank
+	url = https://github.com/sparrowhe/clipcc-extension-easier-rank
+[submodule "clipcc-extension-console"]
+	path = clipcc-extension-console
+	url = https://github.com/sparrowhe/clipcc-extension-console
+[submodule "clipcc-extension-string"]
+	path = clipcc-extension-string
+	url = https://github.com/JasonXu134590/clipcc-extension-string
+[submodule "clipcc-extension-crypto"]
+	path = clipcc-extension-crypto
+	url = https://github.com/JasonXu134590/clipcc-extension-crypto
+[submodule "clipcc-extension-position"]
+	path = clipcc-extension-position
+	url = https://github.com/JasonXu134590/clipcc-extension-position
+[submodule "clipcc-extension-pauli"]
+	path = clipcc-extension-pauli
+	url = https://github.com/sparrowhe/clipcc-extension-pauli
+[submodule "Clipccext-LazyLoad"]
+	path = Clipccext-LazyLoad
+	url = https://github.com/java30433/Clipccext-LazyLoad
+[submodule "clipcc-gamepad"]
+	path = clipcc-gamepad
+	url = https://github.com/frank-782/clipcc-gamepad
