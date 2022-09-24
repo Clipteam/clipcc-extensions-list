@@ -55,3 +55,6 @@
 [submodule "clipcc-gamepad"]
 	path = clipcc-gamepad
 	url = https://github.com/frank-782/clipcc-gamepad
+[submodule "clipcc-extension-nhjrToolBox"]
+	path = clipcc-extension-nhjrToolBox
+	url = https://github.com/NanHaiJuRuo/clipcc-extension-nhjrToolBox

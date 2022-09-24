@@ -38,3 +38,4 @@ This repository is used for save the extensions' open source repository link.
 | qiming.typify             | Typify            | qiming                |          |
 | top.sparrowhe.pauli       | 泡利                | Sparrow He            |[https://github.com/sparrowhe/clipcc-extension-pauli](https://github.com/sparrowhe/clipcc-extension-pauli)|
 | java30433.lazyload        | 懒加载 Lazyload      | java30433             |[https://github.com/java30433/Clipccext-LazyLoad](https://github.com/java30433/Clipccext-LazyLoad)|
+|nhjr.ToolBox|nhjrToolBox|NanHaiJuRuo|[https://github.com/NanHaiJuRuo/clipcc-extension-nhjrToolBox](https://github.com/NanHaiJuRuo/clipcc-extension-nhjrToolBox)|
