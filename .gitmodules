@@ -58,3 +58,6 @@
 [submodule "clipcc-extension-nhjrToolBox"]
 	path = clipcc-extension-nhjrToolBox
 	url = https://github.com/NanHaiJuRuo/clipcc-extension-nhjrToolBox
+[submodule "BetterHTTPIO"]
+	path = BetterHTTPIO
+	url = https://github.com/Hi-awaBlack/clipcc-extension-betterhttpio
