@@ -61,3 +61,6 @@
 [submodule "BetterHTTPIO"]
 	path = BetterHTTPIO
 	url = https://github.com/Hi-awaBlack/clipcc-extension-betterhttpio
+[submodule "Number-Extension"]
+ 	path = NumberExtension
+ 	url = https://github.com/Skyhigh173/ClipCC-Number-Extension
