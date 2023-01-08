@@ -39,3 +39,4 @@ This repository is used for save the extensions' open source repository link.
 | top.sparrowhe.pauli       | 泡利                | Sparrow He            |[https://github.com/sparrowhe/clipcc-extension-pauli](https://github.com/sparrowhe/clipcc-extension-pauli)|
 | java30433.lazyload        | 懒加载 Lazyload      | java30433             |[https://github.com/java30433/Clipccext-LazyLoad](https://github.com/java30433/Clipccext-LazyLoad)|
 |nhjr.ToolBox|nhjrToolBox|NanHaiJuRuo|[https://github.com/NanHaiJuRuo/clipcc-extension-nhjrToolBox](https://github.com/NanHaiJuRuo/clipcc-extension-nhjrToolBox)|
+|em.pip|PIP|Edit Mr.|[https://github.com/Edit-Mr/clipcc-extension-PIP](https://github.com/Edit-Mr/clipcc-extension-PIP)|
