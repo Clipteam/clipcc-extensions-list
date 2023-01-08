@@ -61,3 +61,6 @@
 [submodule "BetterHTTPIO"]
 	path = BetterHTTPIO
 	url = https://github.com/Hi-awaBlack/clipcc-extension-betterhttpio
+[submodule "clipcc-extension-PIP"]
+	path = clipcc-extension-PIP
+	url = https://github.com/Edit-Mr/clipcc-extension-PIP
