@@ -64,3 +64,6 @@
 [submodule "Number-Extension"]
  	path = NumberExtension
  	url = https://github.com/Skyhigh173/ClipCC-Number-Extension
+[submodule "clipcc-extension-dictionary"]
+	path = clipcc-extension-dictionary
+	url = https://github.com/OrdChaos/clipcc-extension-dictionary
