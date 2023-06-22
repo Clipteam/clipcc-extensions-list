@@ -64,3 +64,6 @@
 [submodule "Number-Extension"]
  	path = NumberExtension
  	url = https://github.com/Skyhigh173/ClipCC-Number-Extension
+[submodule "clipcc-extension-connect_more_strings_v2"]
+ 	path = connect_more_strings_v2
+ 	url = https://github.com/bddjr/clipcc-extension-connect_more_strings_v2
