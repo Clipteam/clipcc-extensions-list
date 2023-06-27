@@ -38,5 +38,7 @@ This repository is used for save the extensions' open source repository link.
 | qiming.typify             | Typify            | qiming                |          |
 | top.sparrowhe.pauli       | 泡利                | Sparrow He            |[https://github.com/sparrowhe/clipcc-extension-pauli](https://github.com/sparrowhe/clipcc-extension-pauli)|
 | java30433.lazyload        | 懒加载 Lazyload      | java30433             |[https://github.com/java30433/Clipccext-LazyLoad](https://github.com/java30433/Clipccext-LazyLoad)|
-|nhjr.ToolBox|nhjrToolBox|NanHaiJuRuo|[https://github.com/NanHaiJuRuo/clipcc-extension-nhjrToolBox](https://github.com/NanHaiJuRuo/clipcc-extension-nhjrToolBox)|
+|nhjr.ToolBox|nhjrToolBox|NanHaiJuRuo|[https://github.com/bddjr/clipcc-extension-nhjrToolBox](https://github.com/NanHaiJuRuo/clipcc-extension-nhjrToolBox)|
 | bddjr.connect_more_strings_v2 | Connect more strings v2 | bddjr | <https://github.com/bddjr/clipcc-extension-connect_more_strings_v2> |
+| bddjr.toolbox_v2 | bddjr toolbox v2 | bddjr | <https://github.com/bddjr/clipcc-extension-bddjr_toolbox_v2> |
+| bddjr.custom_menu_v2 | custom menu v2 | bddjr | <https://github.com/bddjr/clipcc-extension-custom_menu_v2> |
